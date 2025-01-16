@@ -1,0 +1,2 @@
+![exemple](https://github.com/user-attachments/assets/e6dcd891-732a-48b2-8ae4-6ba72c5ca8df)
+A fun and interactive web-based simulation of GitHub's contribution calendar. This project allows users to visualize and simulate their GitHub contributions for the year 2025. Users can click on individual days to mark them as "active" (representing contributions) and see a list of clicked dates. The simulation also provides feedback on whether a commit is needed for the current day.
